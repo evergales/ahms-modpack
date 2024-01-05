@@ -1,0 +1,13 @@
+name = "Spelunker"
+filename = "spelunker-1.5.2-mc1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hwl9Rw2v/versions/ADOW5QD4/spelunker-1.5.2-mc1.19.jar"
+hash-format = "sha1"
+hash = "4e4ff7d9e81da81280684aa95fb778a6b8c8e686"
+
+[update]
+[update.modrinth]
+mod-id = "hwl9Rw2v"
+version = "ADOW5QD4"
