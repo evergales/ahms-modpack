@@ -1,0 +1,13 @@
+name = "Compact Chat"
+filename = "compact-chat-2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/w2SFICvx/versions/z7kBDopg/compact-chat-2.0.0.jar"
+hash-format = "sha1"
+hash = "6a0560af269fc3abe2b4184f0e23476b8d36769e"
+
+[update]
+[update.modrinth]
+mod-id = "w2SFICvx"
+version = "z7kBDopg"
