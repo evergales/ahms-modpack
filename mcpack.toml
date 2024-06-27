@@ -1,0 +1,10 @@
+[about]
+name = "ahms"
+authors = ["you!"]
+description = "my awesome modpack!"
+version = "0.1.0"
+
+[versions]
+minecraft = "1.20.1"
+mod_loader = "fabric"
+loader_version = "0.15.11"

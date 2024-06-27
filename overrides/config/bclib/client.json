@@ -1,0 +1,32 @@
+{
+  "ui": {
+    "suppressExperimentalDialogOnLoad [default: false]": false,
+    "showUpdateInfo [default: true]": false,
+    "preferModrinthForUpdates [default: true]": false,
+    "forceBetterXPreset [default: true]": false,
+    "iAmNotTheDonorType [default: false]": false,
+    "useModrinthForUpdates [default: false]": false,
+    "notTheDonorType [default: true]": true
+  },
+  "auto_sync": {
+    "enabled [default: true]": false,
+    "acceptConfigs [default: true]": false,
+    "acceptFiles [default: true]": false,
+    "acceptMods [default: false]": false,
+    "displayModInfo [default: true]": false,
+    "debugHashes [default: false]": false,
+    "acceptMods [default: true]": false
+  },
+  "rendering": {
+    "customFogRendering [default: true]": false,
+    "netherThickFog [default: true]": false,
+    "FogDensity [default: 1.0]": 1.0
+  },
+  "version": {
+    "didShowWelcome [default: false]": true,
+    "check [default: true]": false
+  },
+  "infos": {
+    "survives_on_hint [default: true]": false
+  }
+}
