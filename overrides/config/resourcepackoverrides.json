@@ -1,0 +1,44 @@
+{
+  "schema_version": "2",
+  "default_packs": [
+    "file/[1.4.1] Enhanced Boss Bars.zip",
+    "file/Create Computers 1.2.1 - 1.20.1 Resource Pack Only.zip",
+    "spelunkery:better_vanilla_gems",
+    "file/Farcr's Better Dirt V1.2.zip",
+    "file/Farcr's Re-Create V1.5.1.zip"
+  ],
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    "built-in": [
+      "Moonlight Mods Dynamic Assets",
+      "minecraft:supporteatinganimation",
+      "seamless:default_seamless",
+      "spelunkery:unlit_redstone_ores",
+      "convenientdecor:hydrated_farmland"
+    ],
+    "$$built-in": {
+      "hidden": true,
+      "required": true
+    },
+
+    "hidden": [
+      "create:legacy_copper",
+      "classic_icons",
+      "elytratrims:legacy",
+      "immersive_weathering:visual_waxed_iron_items",
+      "meadow:better_leaves",
+      "meadow:green_stove",
+      "meadow:optifine_support",
+      "natures_spirit:better_leaves_compatibility",
+      "railways:legacy_palettes",
+      "railways:legacy_semaphore",
+      "supplementaries:darker_ropes",
+      "vinery:bushy_leaves"
+    ],
+    "$$hidden": {
+      "hidden": true
+    }
+  }
+}
