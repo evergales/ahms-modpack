@@ -171,7 +171,7 @@ name = "Botarium"
 type = "mod"
 platform = "modrinth"
 id = "2u6LRnMa"
-version = "5a8eybLl"
+version = "f3ATcSfq"
 
 [[mods]]
 name = "Bountiful"
@@ -192,7 +192,7 @@ name = "CICADA"
 type = "mod"
 platform = "modrinth"
 id = "IwCkru1D"
-version = "9psK23zq"
+version = "ZSSZMYi4"
 
 [[mods]]
 name = "CTOV - Croptopia compat"
@@ -220,7 +220,7 @@ name = "Chat Heads"
 type = "mod"
 platform = "modrinth"
 id = "Wb5oqrBJ"
-version = "9bUhbcJb"
+version = "9nKt0MPf"
 
 [[mods]]
 name = "Chef's Delight"
@@ -265,11 +265,18 @@ id = "9s6osm5g"
 version = "J3FLptsi"
 
 [[mods]]
+name = "Cobweb"
+type = "mod"
+platform = "modrinth"
+id = "dQcfqGbl"
+version = "AyWecby3"
+
+[[mods]]
 name = "Collective"
 type = "mod"
 platform = "modrinth"
 id = "e0M1UDsY"
-version = "msNO319F"
+version = "HhsvWQiL"
 
 [[mods]]
 name = "Combat Roll"
@@ -354,6 +361,7 @@ type = "mod"
 platform = "modrinth"
 id = "Dq3STxps"
 version = "5lYRaouO"
+pinned = true
 
 [[mods]]
 name = "Create Support for Open Parties and Claims"
@@ -374,7 +382,7 @@ name = "Create: Copycats+"
 type = "mod"
 platform = "modrinth"
 id = "UT2M39wf"
-version = "FiaB6nOi"
+version = "TtUJDjF2"
 
 [[mods]]
 name = "Create: Crystal Clear"
@@ -486,14 +494,14 @@ name = "Dynamic FPS"
 type = "mod"
 platform = "modrinth"
 id = "LQ3K71Q1"
-version = "aPRTCnlc"
+version = "5e8bQR5b"
 
 [[mods]]
 name = "EMI"
 type = "mod"
 platform = "modrinth"
 id = "fRiHVvU7"
-version = "MZiSLFZX"
+version = "PBtTeLpA"
 
 [[mods]]
 name = "EMI Loot"
@@ -549,7 +557,7 @@ name = "Elytra Trims"
 type = "mod"
 platform = "modrinth"
 id = "XpzGz7KD"
-version = "g2AqadoV"
+version = "WrT3g90N"
 
 [[mods]]
 name = "Emoji Type"
@@ -724,7 +732,7 @@ name = "Geophilic"
 type = "mod"
 platform = "modrinth"
 id = "hl5OLM95"
-version = "fKmASpVj"
+version = "RRNZbxAa"
 
 [[mods]]
 name = "Gliders"
@@ -752,7 +760,7 @@ name = "Harvest with ease"
 type = "mod"
 platform = "modrinth"
 id = "W4Ajthd2"
-version = "vL0Ws8PI"
+version = "jwOpkJyA"
 
 [[mods]]
 name = "Haunted Harvest"
@@ -808,7 +816,7 @@ name = "Indium"
 type = "mod"
 platform = "modrinth"
 id = "Orvt0mRa"
-version = "XPsoVC5n"
+version = "gofbpynL"
 
 [[mods]]
 name = "Infusion Table"
@@ -822,7 +830,7 @@ name = "Iris Shaders"
 type = "mod"
 platform = "modrinth"
 id = "YL57xq9U"
-version = "G5dd9TM4"
+version = "1CMVXDHo"
 
 [[mods]]
 name = "Iron Chests: Restocked"
@@ -955,7 +963,7 @@ name = "M.R.U"
 type = "mod"
 platform = "modrinth"
 id = "SNVQ2c0g"
-version = "rRnkp3xe"
+version = "IWJh0MMO"
 
 [[mods]]
 name = "MC Dungeons Armors"
@@ -1396,7 +1404,7 @@ name = "Sodium"
 type = "mod"
 platform = "modrinth"
 id = "AANobbMI"
-version = "dEpHs0Hg"
+version = "ygf8cVZg"
 
 [[mods]]
 name = "Sodium Extra"
@@ -1536,7 +1544,7 @@ name = "Vein Mining"
 type = "mod"
 platform = "modrinth"
 id = "bRAPbNyF"
-version = "bv24X5Mj"
+version = "PFFXEfYV"
 
 [[mods]]
 name = "Visual Workbench"
