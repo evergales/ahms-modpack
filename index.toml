@@ -6,11 +6,25 @@ id = "zV5r3pPn"
 version = "nMrKSYUo"
 
 [[mods]]
+name = "Accurate Block Placement Reborn"
+type = "mod"
+platform = "modrinth"
+id = "kzwxhsjp"
+version = "dHimNl5m"
+
+[[mods]]
 name = "AdventureZ"
 type = "mod"
 platform = "modrinth"
 id = "defK2XM3"
 version = "mBYmRou0"
+
+[[mods]]
+name = "Aileron"
+type = "mod"
+platform = "modrinth"
+id = "b8kG1VGq"
+version = "AsJWwz7I"
 
 [[mods]]
 name = "Alloy Forgery"
@@ -81,6 +95,13 @@ type = "mod"
 platform = "modrinth"
 id = "b1ZV3DIJ"
 version = "mXJWSwbJ"
+
+[[mods]]
+name = "Auditory Continued"
+type = "mod"
+platform = "modrinth"
+id = "UafsfA4K"
+version = "BdKxBtb6"
 
 [[mods]]
 name = "AutoTag"
@@ -193,13 +214,6 @@ type = "mod"
 platform = "modrinth"
 id = "IwCkru1D"
 version = "ZSSZMYi4"
-
-[[mods]]
-name = "CTOV - Croptopia compat"
-type = "mod"
-platform = "modrinth"
-id = "5cWrW4FI"
-version = "bx12kDBE"
 
 [[mods]]
 name = "Cardinal Components API"
@@ -467,13 +481,6 @@ type = "mod"
 platform = "modrinth"
 id = "QwxR6Gcd"
 version = "6XDJoCks"
-
-[[mods]]
-name = "Do a Barrel Roll"
-type = "mod"
-platform = "modrinth"
-id = "6FtRfnLg"
-version = "iKLtnuLB"
 
 [[mods]]
 name = "Dungeon Now Loading"
@@ -805,13 +812,6 @@ id = "6txNkua3"
 version = "UjL11A4h"
 
 [[mods]]
-name = "Immersive Weathering"
-type = "mod"
-platform = "modrinth"
-id = "jkskOO9i"
-version = "qa75J3ea"
-
-[[mods]]
 name = "Indium"
 type = "mod"
 platform = "modrinth"
@@ -852,13 +852,6 @@ type = "mod"
 platform = "modrinth"
 id = "IYY9Siz8"
 version = "vVYtBiuW"
-
-[[mods]]
-name = "Joy of Painting"
-type = "mod"
-platform = "modrinth"
-id = "YOs4tZea"
-version = "IBv83UmH"
 
 [[mods]]
 name = "Just Hammers"
