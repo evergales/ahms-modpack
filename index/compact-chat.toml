@@ -1,0 +1,10 @@
+name = "Compact Chat"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "w2SFICvx"
+version = "Z8xYNFlD"
+
+[options]

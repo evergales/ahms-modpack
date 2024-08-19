@@ -1,0 +1,10 @@
+name = "Statement"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "a9AsUNGn"
+version = "6MFwerG8"
+
+[options]

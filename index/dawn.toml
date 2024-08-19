@@ -1,0 +1,10 @@
+name = "Dawn API"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "meZK2DCX"
+version = "J6b05anw"
+
+[options]

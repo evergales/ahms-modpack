@@ -1,0 +1,10 @@
+name = "3D Skin Layers"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "zV5r3pPn"
+version = "nMrKSYUo"
+
+[options]

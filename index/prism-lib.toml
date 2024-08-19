@@ -1,0 +1,10 @@
+name = "Prism"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "1OE8wbN0"
+version = "Fmetb8IP"
+
+[options]

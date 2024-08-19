@@ -1,0 +1,10 @@
+name = "Your Options Shall Be Respected (YOSBR)"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "WwbubTsV"
+version = "KMOzdYko"
+
+[options]

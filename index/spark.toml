@@ -1,0 +1,10 @@
+name = "spark"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "l6YH9Als"
+version = "XGW2fviP"
+
+[options]

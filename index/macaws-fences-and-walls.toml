@@ -1,0 +1,10 @@
+name = "Macaw's Fences and Walls"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "GmwLse2I"
+version = "NxAYnOkJ"
+
+[options]

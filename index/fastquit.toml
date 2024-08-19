@@ -1,0 +1,10 @@
+name = "FastQuit"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "x1hIzbuY"
+version = "tNgyOUMr"
+
+[options]

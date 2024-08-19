@@ -1,0 +1,10 @@
+name = "Comforts"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "SaCpeal4"
+version = "pMr60Kkq"
+
+[options]

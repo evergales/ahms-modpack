@@ -1,0 +1,10 @@
+name = "[Let's Do] Meadow"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "ra7o6Sl7"
+version = "Qt2lCIS5"
+
+[options]

@@ -1,0 +1,10 @@
+name = "Status Effect Bars"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "x02cBj9Y"
+version = "mTjPtAMK"
+
+[options]

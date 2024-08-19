@@ -1,0 +1,10 @@
+name = "Max Health Fix"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "mH8wdmqr"
+version = "PEvu8a2H"
+
+[options]

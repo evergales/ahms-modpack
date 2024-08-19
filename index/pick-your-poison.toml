@@ -1,0 +1,10 @@
+name = "Pick Your Poison"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "EHjFQKek"
+version = "INN0iDW3"
+
+[options]

@@ -1,0 +1,10 @@
+name = "Combat Roll"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "wGKYL7st"
+version = "FyOp03FS"
+
+[options]

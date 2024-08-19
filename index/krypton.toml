@@ -1,0 +1,10 @@
+name = "Krypton"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "fQEb0iXm"
+version = "jiDwS0W1"
+
+[options]

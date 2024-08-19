@@ -1,0 +1,10 @@
+name = "EMI"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "fRiHVvU7"
+version = "CMFWLyX6"
+
+[options]

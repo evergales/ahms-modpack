@@ -1,0 +1,10 @@
+name = "Reese's Sodium Options"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "Bh37bMuy"
+version = "Rc9pkPug"
+
+[options]

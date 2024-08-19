@@ -1,0 +1,10 @@
+name = "Peek"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "TnOXNf5e"
+version = "H0EzeMXA"
+
+[options]

@@ -1,0 +1,10 @@
+name = "MixinTrace"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "sGmHWmeL"
+version = "LGYOH4RN"
+
+[options]

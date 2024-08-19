@@ -1,0 +1,10 @@
+name = "Nether Depths Upgrade"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "vI1QKJro"
+version = "CdgX1NKy"
+
+[options]

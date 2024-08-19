@@ -1,0 +1,10 @@
+name = "Create Fabric"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "Xbc0uyRg"
+version = "h2HgGyvA"
+
+[options]

@@ -1,0 +1,10 @@
+name = "Puzzles Lib"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "QAGBst4M"
+version = "xjQF8bha"
+
+[options]

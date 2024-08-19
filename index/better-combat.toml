@@ -1,0 +1,10 @@
+name = "Better Combat"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "5sy6g3kz"
+version = "qxfX3jsR"
+
+[options]

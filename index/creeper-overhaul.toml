@@ -1,0 +1,10 @@
+name = "Creeper Overhaul"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "MI1LWe93"
+version = "Mw0Hq1SZ"
+
+[options]

@@ -1,0 +1,10 @@
+name = "Vein Mining"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "bRAPbNyF"
+version = "PFFXEfYV"
+
+[options]

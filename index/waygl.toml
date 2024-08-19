@@ -1,0 +1,10 @@
+name = "WayGL"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "XTzhksrl"
+version = "3CHQaaxS"
+
+[options]

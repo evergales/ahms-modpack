@@ -1,0 +1,10 @@
+name = "Mythic Metals"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "bAWzYNRd"
+version = "usAeRRkO"
+
+[options]

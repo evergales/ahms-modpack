@@ -1,0 +1,10 @@
+name = "Immersive Weathering"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "jkskOO9i"
+version = "qa75J3ea"
+
+[options]

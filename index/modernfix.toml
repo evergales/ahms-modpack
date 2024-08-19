@@ -1,0 +1,10 @@
+name = "ModernFix"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "nmDcB62a"
+version = "nJmQaEws"
+
+[options]

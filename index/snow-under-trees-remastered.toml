@@ -1,0 +1,10 @@
+name = "Snow Under Trees (Fabric)"
+type = "mod"
+side = "server"
+
+[source]
+source = "modrinth"
+id = "XVnUIUAQ"
+version = "i2E71Kma"
+
+[options]

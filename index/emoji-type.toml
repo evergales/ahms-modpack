@@ -1,0 +1,10 @@
+name = "Emoji Type"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "q7vRRpxU"
+version = "SDBfBuH9"
+
+[options]

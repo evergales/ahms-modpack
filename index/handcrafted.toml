@@ -1,0 +1,10 @@
+name = "Handcrafted"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "pJmCFF0p"
+version = "NRw0CDAc"
+
+[options]

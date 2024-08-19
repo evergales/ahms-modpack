@@ -1,0 +1,10 @@
+name = "Winterly"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "CEvDfomf"
+version = "5tRFmRAm"
+
+[options]

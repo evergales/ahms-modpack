@@ -1,0 +1,10 @@
+name = "AppleSkin"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "EsAfCjCV"
+version = "xcauwnEB"
+
+[options]

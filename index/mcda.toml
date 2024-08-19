@@ -1,0 +1,10 @@
+name = "MC Dungeons Armors"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "oMitr7dU"
+version = "kOZVEfRn"
+
+[options]

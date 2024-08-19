@@ -1,0 +1,10 @@
+name = "Not Enough Animations"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "MPCX6s5C"
+version = "hevbf7OI"
+
+[options]

@@ -1,0 +1,10 @@
+name = "Numismatic Overhaul"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "ZXm8hVxN"
+version = "ita3zf5N"
+
+[options]

@@ -1,0 +1,10 @@
+name = "BetterEnd"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "gc8OEnCC"
+version = "7QwyTILr"
+
+[options]

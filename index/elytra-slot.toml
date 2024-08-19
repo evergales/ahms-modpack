@@ -1,0 +1,10 @@
+name = "Elytra Slot"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "mSQF1NpT"
+version = "D3eqGfXv"
+
+[options]

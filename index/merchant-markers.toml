@@ -1,0 +1,10 @@
+name = "Merchant Markers"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "AGhiJWsU"
+version = "9JD3inri"
+
+[options]

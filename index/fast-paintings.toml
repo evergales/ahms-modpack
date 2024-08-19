@@ -1,0 +1,10 @@
+name = "Fast Paintings"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "z3TzcquW"
+version = "1SN7K6ZX"
+
+[options]

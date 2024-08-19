@@ -1,0 +1,10 @@
+name = "Croptopia"
+type = "mod"
+side = "both"
+
+[source]
+source = "curseforge"
+id = 415438
+version = 4997461
+
+[options]

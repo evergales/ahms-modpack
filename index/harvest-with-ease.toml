@@ -1,0 +1,10 @@
+name = "Harvest with ease"
+type = "mod"
+side = "server"
+
+[source]
+source = "modrinth"
+id = "W4Ajthd2"
+version = "jwOpkJyA"
+
+[options]

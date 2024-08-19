@@ -1,0 +1,10 @@
+name = "Farmer's Delight Refabricated"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "7vxePowz"
+version = "mCvHYQFv"
+
+[options]

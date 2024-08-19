@@ -1,0 +1,10 @@
+name = "Idwtialsimmoedm"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "ad89WlWh"
+version = "mt6ldABY"
+
+[options]

@@ -1,0 +1,10 @@
+name = "EMI Trades"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "j2HhbEE7"
+version = "kWMqVWTm"
+
+[options]

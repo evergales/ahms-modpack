@@ -1,0 +1,10 @@
+name = "Create: Crystal Clear"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "h7QgiH72"
+version = "jCoGpP8a"
+
+[options]

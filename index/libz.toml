@@ -1,0 +1,10 @@
+name = "LibZ"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "yUBXc3AH"
+version = "BEPAjfEE"
+
+[options]

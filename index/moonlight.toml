@@ -1,0 +1,10 @@
+name = "Moonlight Lib"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "twkfQtEc"
+version = "jYYF1jmo"
+
+[options]

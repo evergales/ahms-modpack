@@ -1,0 +1,10 @@
+name = "Twigs"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "RG50cUrX"
+version = "aJj6NXkv"
+
+[options]

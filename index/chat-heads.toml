@@ -1,0 +1,10 @@
+name = "Chat Heads"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "Wb5oqrBJ"
+version = "MdoSw2dL"
+
+[options]

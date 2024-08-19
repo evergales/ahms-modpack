@@ -1,0 +1,10 @@
+name = "Eating Animation"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "rUgZvGzi"
+version = "AqXSvu6M"
+
+[options]

@@ -1,0 +1,10 @@
+name = "Resource Pack Overrides"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "YsFycamt"
+version = "2LDowIR8"
+
+[options]

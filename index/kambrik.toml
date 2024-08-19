@@ -1,0 +1,10 @@
+name = "Kambrik"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "zfbCkvdZ"
+version = "SqVitkHr"
+
+[options]

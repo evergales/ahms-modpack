@@ -1,0 +1,10 @@
+name = "Simple Voice Chat Enhanced Groups"
+type = "mod"
+side = "server"
+
+[source]
+source = "modrinth"
+id = "1LE7mid6"
+version = "YXLv3lWE"
+
+[options]

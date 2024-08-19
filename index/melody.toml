@@ -1,0 +1,10 @@
+name = "Melody"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "CVT4pFB2"
+version = "2o0oW8Yv"
+
+[options]

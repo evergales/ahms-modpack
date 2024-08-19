@@ -1,0 +1,10 @@
+name = "Create Support for Open Parties and Claims"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "T4Cv5iZq"
+version = "Cf65NVxT"
+
+[options]

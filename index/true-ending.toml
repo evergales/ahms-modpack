@@ -1,0 +1,10 @@
+name = "True Ending: Ender Dragon Overhaul"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "MCnBYP0b"
+version = "TO1g4SDa"
+
+[options]

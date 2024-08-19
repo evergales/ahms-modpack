@@ -1,0 +1,10 @@
+name = "Enhanced Boss Bars"
+type = "resourcepack"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "U5SedJ9S"
+version = "3fjpw8Kj"
+
+[options]

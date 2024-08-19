@@ -1,0 +1,10 @@
+name = "ClickThrough"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "Z5b0cAlD"
+version = "bwQT3Pqa"
+
+[options]

@@ -1,0 +1,10 @@
+name = "Haunted Harvest"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "a378ICDH"
+version = "nM518TKL"
+
+[options]

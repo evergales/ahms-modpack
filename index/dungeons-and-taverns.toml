@@ -1,0 +1,10 @@
+name = "Dungeons and Taverns"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "tpehi7ww"
+version = "d1sY0JqV"
+
+[options]

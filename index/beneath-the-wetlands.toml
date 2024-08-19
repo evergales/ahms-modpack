@@ -1,0 +1,10 @@
+name = "Beneath the Wetlands"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "QjzFB2iK"
+version = "SQIs7MJs"
+
+[options]

@@ -1,0 +1,10 @@
+name = "Entity Culling"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "NNAgCjsB"
+version = "F3RXDl1W"
+
+[options]

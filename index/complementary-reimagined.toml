@@ -1,0 +1,10 @@
+name = "Complementary Shaders - Reimagined"
+type = "shader"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "HVnmMxH1"
+version = "pAOQ9Amz"
+
+[options]

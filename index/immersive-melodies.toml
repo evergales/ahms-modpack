@@ -1,0 +1,10 @@
+name = "Immersive Melodies"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "TaSmHw8V"
+version = "oVk9fOQD"
+
+[options]

@@ -1,0 +1,10 @@
+name = "Create: Steam 'n' Rails"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "ZzjhlDgM"
+version = "AJ3IGl3n"
+
+[options]

@@ -1,0 +1,10 @@
+name = "LambDynamicLights"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "yBW8D80W"
+version = "mYl4RvKg"
+
+[options]

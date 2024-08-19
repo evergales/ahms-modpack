@@ -1,0 +1,10 @@
+name = "TieredZ"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "z6sMEexp"
+version = "GFUW7N2P"
+
+[options]

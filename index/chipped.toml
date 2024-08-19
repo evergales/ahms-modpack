@@ -1,0 +1,10 @@
+name = "Chipped"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "BAscRYKm"
+version = "Fy1PKYtc"
+
+[options]

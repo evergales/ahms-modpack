@@ -1,0 +1,10 @@
+name = "Memory Leak Fix"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "NRjRiSSD"
+version = "5xvCCRjJ"
+
+[options]

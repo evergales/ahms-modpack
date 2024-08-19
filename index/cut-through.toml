@@ -1,0 +1,10 @@
+name = "Cut Through"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "Dk6su9JN"
+version = "UdH7Njsc"
+
+[options]

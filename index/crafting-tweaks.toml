@@ -1,0 +1,10 @@
+name = "Crafting Tweaks"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "DMu0oBKf"
+version = "bss6C81q"
+
+[options]

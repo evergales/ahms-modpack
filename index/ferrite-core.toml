@@ -1,0 +1,10 @@
+name = "FerriteCore"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "uXXizFIs"
+version = "unerR5MN"
+
+[options]

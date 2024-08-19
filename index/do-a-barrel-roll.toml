@@ -1,0 +1,10 @@
+name = "Do a Barrel Roll"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "6FtRfnLg"
+version = "CuLlUIYD"
+
+[options]

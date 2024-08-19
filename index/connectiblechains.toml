@@ -1,0 +1,10 @@
+name = "Connectible Chains [Fabric]"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "ykSfIgTw"
+version = "qSAa0vuB"
+
+[options]

@@ -1,0 +1,10 @@
+name = "Model Gap Fix"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "QdG47OkI"
+version = "GkLb4bRl"
+
+[options]

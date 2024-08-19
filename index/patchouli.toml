@@ -1,0 +1,10 @@
+name = "Patchouli"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "nU0bVIaL"
+version = "Y6tuH1cn"
+
+[options]

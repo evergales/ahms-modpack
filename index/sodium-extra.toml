@@ -1,0 +1,10 @@
+name = "Sodium Extra"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "PtjYWJkn"
+version = "I7ggF6B5"
+
+[options]

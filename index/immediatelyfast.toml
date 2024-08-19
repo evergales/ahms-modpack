@@ -1,0 +1,10 @@
+name = "ImmediatelyFast"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "5ZwdcRci"
+version = "ntbcEUWv"
+
+[options]

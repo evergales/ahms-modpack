@@ -1,0 +1,10 @@
+name = "playerAnimator"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "gedNE4y2"
+version = "yDqYTUaf"
+
+[options]

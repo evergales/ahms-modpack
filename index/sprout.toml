@@ -1,0 +1,10 @@
+name = "Sprout"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "m7Az3ZOX"
+version = "QWlveWh6"
+
+[options]

@@ -1,0 +1,10 @@
+name = "Bosses of Mass Destruction"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "du3UfiLL"
+version = "yoCCX4Cc"
+
+[options]

@@ -1,0 +1,10 @@
+name = "Create Railways Navigator"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "Dq3STxps"
+version = "WAEhiqHN"
+
+[options]

@@ -1,0 +1,10 @@
+name = "Dynamic FPS"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "LQ3K71Q1"
+version = "GtitXgiZ"
+
+[options]

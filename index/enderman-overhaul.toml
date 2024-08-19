@@ -1,0 +1,10 @@
+name = "Enderman Overhaul"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "Lq6ojcWv"
+version = "4oiJql9P"
+
+[options]

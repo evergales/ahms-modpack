@@ -1,0 +1,10 @@
+name = "Amecs"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "rcLriA4v"
+version = "HuXAp0GB"
+
+[options]

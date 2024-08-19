@@ -1,0 +1,10 @@
+name = "Bountiful"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "BpwWFOVM"
+version = "qFqfFMMO"
+
+[options]

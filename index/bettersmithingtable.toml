@@ -1,0 +1,10 @@
+name = "Better Smithing Table"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "Vt8TI045"
+version = "QUipFQuL"
+
+[options]

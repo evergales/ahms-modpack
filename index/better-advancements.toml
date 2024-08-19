@@ -1,0 +1,10 @@
+name = "Better Advancements"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "Q2OqKxDG"
+version = "aefjQSuD"
+
+[options]

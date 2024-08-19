@@ -1,0 +1,10 @@
+name = "Not Enough Recipe Book [NERB]"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "bQh7xzFq"
+version = "TXL5AFHt"
+
+[options]

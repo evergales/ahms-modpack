@@ -1,0 +1,10 @@
+name = "Resourceful Lib"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "G1hIVOrD"
+version = "4u04iwUx"
+
+[options]

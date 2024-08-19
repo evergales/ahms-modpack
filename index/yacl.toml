@@ -1,0 +1,10 @@
+name = "YetAnotherConfigLib"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "1eAoo2KR"
+version = "gQuF6HNa"
+
+[options]

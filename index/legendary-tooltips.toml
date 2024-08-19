@@ -1,0 +1,10 @@
+name = "Legendary Tooltips"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "atHH8NyV"
+version = "fvJtXL6i"
+
+[options]

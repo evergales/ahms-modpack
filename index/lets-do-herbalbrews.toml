@@ -1,0 +1,10 @@
+name = "[Let's Do] HerbalBrews"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "Eh11TaTm"
+version = "BtUrY6MK"
+
+[options]

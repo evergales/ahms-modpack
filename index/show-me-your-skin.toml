@@ -1,0 +1,10 @@
+name = "Show Me Your Skin!"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "bD7YqcA3"
+version = "acq6mVBP"
+
+[options]

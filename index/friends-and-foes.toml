@@ -1,0 +1,10 @@
+name = "Friends&Foes (Fabric/Quilt)"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "POQ2i9zu"
+version = "RwSCWy4k"
+
+[options]

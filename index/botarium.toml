@@ -1,0 +1,10 @@
+name = "Botarium"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "2u6LRnMa"
+version = "f3ATcSfq"
+
+[options]

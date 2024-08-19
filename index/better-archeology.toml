@@ -1,0 +1,10 @@
+name = "Better Archeology"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "zCh7omyG"
+version = "x5DacI7P"
+
+[options]

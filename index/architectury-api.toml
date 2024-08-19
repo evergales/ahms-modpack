@@ -1,0 +1,10 @@
+name = "Architectury API"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "lhGA9TYQ"
+version = "WbL7MStR"
+
+[options]

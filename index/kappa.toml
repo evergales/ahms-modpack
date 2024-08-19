@@ -1,0 +1,10 @@
+name = "Kappa"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "2wsNAbi3"
+version = "otPau6t0"
+
+[options]

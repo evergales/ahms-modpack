@@ -1,0 +1,10 @@
+name = "Elytra Trims"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "XpzGz7KD"
+version = "45TUn8oC"
+
+[options]

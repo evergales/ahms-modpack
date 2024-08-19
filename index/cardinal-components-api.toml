@@ -1,0 +1,10 @@
+name = "Cardinal Components API"
+type = "mod"
+side = "server"
+
+[source]
+source = "modrinth"
+id = "K01OU20C"
+version = "qW85eawp"
+
+[options]

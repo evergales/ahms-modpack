@@ -1,0 +1,10 @@
+name = "Sodium"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "AANobbMI"
+version = "ygf8cVZg"
+
+[options]

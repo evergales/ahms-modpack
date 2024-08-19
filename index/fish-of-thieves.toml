@@ -1,0 +1,10 @@
+name = "Fish of Thieves"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "BzOTnuqM"
+version = "juv8Ioch"
+
+[options]

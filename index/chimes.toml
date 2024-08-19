@@ -1,0 +1,10 @@
+name = "Chimes"
+type = "mod"
+side = "both"
+
+[source]
+source = "curseforge"
+id = 350464
+version = 4671968
+
+[options]

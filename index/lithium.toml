@@ -1,0 +1,10 @@
+name = "Lithium"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "gvQqBUqZ"
+version = "ZSNsJrPI"
+
+[options]

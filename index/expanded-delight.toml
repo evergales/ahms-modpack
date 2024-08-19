@@ -1,0 +1,10 @@
+name = "Expanded Delight"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "e9V6wFcR"
+version = "ZeqoW6AU"
+
+[options]

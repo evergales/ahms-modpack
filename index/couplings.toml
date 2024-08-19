@@ -1,0 +1,10 @@
+name = "Couplings"
+type = "mod"
+side = "server"
+
+[source]
+source = "modrinth"
+id = "80ulerjA"
+version = "1S2TEbqR"
+
+[options]

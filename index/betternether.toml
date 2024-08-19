@@ -1,0 +1,10 @@
+name = "BetterNether"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "MpzVLzy5"
+version = "IG7kgtJH"
+
+[options]

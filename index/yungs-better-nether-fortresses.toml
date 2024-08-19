@@ -1,0 +1,10 @@
+name = "YUNG's Better Nether Fortresses"
+type = "mod"
+side = "server"
+
+[source]
+source = "modrinth"
+id = "Z2mXHnxP"
+version = "FL88RLRu"
+
+[options]

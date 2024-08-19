@@ -1,0 +1,10 @@
+name = "Create Enchantment Industry Fabric"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "AEZO385x"
+version = "SI0RzkGk"
+
+[options]

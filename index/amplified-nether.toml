@@ -1,0 +1,10 @@
+name = "Amplified Nether"
+type = "mod"
+side = "server"
+
+[source]
+source = "modrinth"
+id = "wXiGiyGX"
+version = "qO36KEYQ"
+
+[options]
