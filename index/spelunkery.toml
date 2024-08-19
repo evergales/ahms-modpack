@@ -1,0 +1,10 @@
+name = "Spelunkery"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "krskFMfA"
+version = "yRYQHobI"
+
+[options]

@@ -1,0 +1,10 @@
+name = "Nature's Spirit"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "WBvnqHfV"
+version = "yro5q4X7"
+
+[options]

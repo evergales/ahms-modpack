@@ -1,0 +1,12 @@
+name = "ahms"
+version = "0.1.0"
+authors = []
+description = "a fairly large modpack for friends!"
+index_path = "./index"
+
+[options]
+
+[versions]
+minecraft = "1.20.1"
+loader = "fabric"
+loader_version = "latest"

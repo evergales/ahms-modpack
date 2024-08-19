@@ -1,0 +1,10 @@
+name = "Transmog"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "Th33t82F"
+version = "UnYsgubm"
+
+[options]

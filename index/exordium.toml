@@ -1,0 +1,10 @@
+name = "Exordium"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "DynYZEae"
+version = "fROHV9gC"
+
+[options]

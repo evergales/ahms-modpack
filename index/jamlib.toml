@@ -1,0 +1,10 @@
+name = "JamLib"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "IYY9Siz8"
+version = "vVYtBiuW"
+
+[options]

@@ -1,0 +1,10 @@
+name = "No Chat Reports"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "qQyHxfxd"
+version = "HeZZR2kF"
+
+[options]

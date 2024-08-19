@@ -1,0 +1,10 @@
+name = "Nethers Delight Refabricated"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "QLPYve8H"
+version = "ukA6oZlz"
+
+[options]

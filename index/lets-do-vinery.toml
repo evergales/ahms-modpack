@@ -1,0 +1,10 @@
+name = "[Let's Do] Vinery"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "1DWmBJVA"
+version = "xXv88P3U"
+
+[options]

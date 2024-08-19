@@ -1,0 +1,10 @@
+name = "YUNG's Better Dungeons"
+type = "mod"
+side = "server"
+
+[source]
+source = "modrinth"
+id = "o1C1Dkj5"
+version = "nidyvq2m"
+
+[options]

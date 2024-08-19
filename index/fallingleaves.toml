@@ -1,0 +1,10 @@
+name = "Falling Leaves"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "WhbRG4iK"
+version = "flPXaySR"
+
+[options]

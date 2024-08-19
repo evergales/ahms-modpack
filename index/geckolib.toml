@@ -1,0 +1,10 @@
+name = "Geckolib"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "8BmcQJ2H"
+version = "BDftClTQ"
+
+[options]

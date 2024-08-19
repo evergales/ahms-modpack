@@ -1,0 +1,10 @@
+name = "Mouse Tweaks"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "aC3cM3Vq"
+version = "mjuG4AYd"
+
+[options]

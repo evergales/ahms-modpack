@@ -1,0 +1,10 @@
+name = "Create: Copycats+"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "UT2M39wf"
+version = "uLMBgtLt"
+
+[options]

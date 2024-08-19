@@ -1,0 +1,10 @@
+name = "Collective"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "e0M1UDsY"
+version = "jo7YkyNS"
+
+[options]

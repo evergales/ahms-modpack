@@ -1,0 +1,10 @@
+name = "Rebind Narrator"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "qw2Ls89j"
+version = "WGRiAAhJ"
+
+[options]

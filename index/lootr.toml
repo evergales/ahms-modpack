@@ -1,0 +1,10 @@
+name = "Lootr"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "EltpO5cN"
+version = "fqmzdpE2"
+
+[options]

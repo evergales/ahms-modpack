@@ -1,0 +1,10 @@
+name = "Promenade"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "GuE5FpvB"
+version = "A5YD9uS3"
+
+[options]

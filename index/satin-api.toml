@@ -1,0 +1,10 @@
+name = "Satin API"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "fRbqPLg4"
+version = "e3HU1vAD"
+
+[options]

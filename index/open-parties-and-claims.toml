@@ -1,0 +1,10 @@
+name = "Open Parties and Claims"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "gF3BGWvG"
+version = "JuWBLw9D"
+
+[options]

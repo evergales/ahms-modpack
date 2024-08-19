@@ -1,0 +1,10 @@
+name = "Reacharound"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "r3VgI4QN"
+version = "29DyXaiq"
+
+[options]

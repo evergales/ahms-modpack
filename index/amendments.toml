@@ -1,0 +1,10 @@
+name = "Amendments"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "6iTJugQR"
+version = "Fk0Km5bb"
+
+[options]

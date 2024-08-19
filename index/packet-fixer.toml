@@ -1,0 +1,10 @@
+name = "Packet Fixer"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "c7m1mi73"
+version = "djNw6g8u"
+
+[options]

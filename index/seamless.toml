@@ -1,0 +1,10 @@
+name = "Seamless"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "rhyHyQke"
+version = "V1KRMYjo"
+
+[options]

@@ -1,0 +1,10 @@
+name = "Monsters in the Closet"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "GMA8jFBD"
+version = "XI1l9czA"
+
+[options]

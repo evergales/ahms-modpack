@@ -1,0 +1,10 @@
+name = "Species"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "s5d4P01r"
+version = "eh9J38KG"
+
+[options]

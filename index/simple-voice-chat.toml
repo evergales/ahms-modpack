@@ -1,0 +1,10 @@
+name = "Simple Voice Chat"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "9eGKb6K1"
+version = "BiZ9ejRE"
+
+[options]

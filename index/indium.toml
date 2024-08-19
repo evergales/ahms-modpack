@@ -1,0 +1,10 @@
+name = "Indium"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "Orvt0mRa"
+version = "gofbpynL"
+
+[options]

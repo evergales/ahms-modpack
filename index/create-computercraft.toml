@@ -1,0 +1,10 @@
+name = "Create: ComputerCraft"
+type = "resourcepack"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "mh9nQqo4"
+version = "KGjoGhyf"
+
+[options]

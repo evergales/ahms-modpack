@@ -1,0 +1,10 @@
+name = "Nature's Compass"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "fPetb5Kh"
+version = "NovIXDxY"
+
+[options]

@@ -1,0 +1,10 @@
+name = "Overflowing Bars"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "XD7XOrAF"
+version = "uDp2TXlN"
+
+[options]

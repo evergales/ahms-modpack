@@ -1,0 +1,10 @@
+name = "Easy Anvils"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "OZBR5JT5"
+version = "pA1enJAS"
+
+[options]

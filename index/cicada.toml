@@ -1,0 +1,10 @@
+name = "CICADA"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "IwCkru1D"
+version = "Kuqg1f1T"
+
+[options]

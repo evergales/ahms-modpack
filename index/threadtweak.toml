@@ -1,0 +1,10 @@
+name = "ThreadTweak"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "vSEH1ERy"
+version = "gBP1GqtK"
+
+[options]

@@ -1,0 +1,10 @@
+name = "CC: Tweaked"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "gu7yAYhd"
+version = "B9b58ZKh"
+
+[options]

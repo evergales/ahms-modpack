@@ -1,0 +1,10 @@
+name = "Athena"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "b1ZV3DIJ"
+version = "mXJWSwbJ"
+
+[options]

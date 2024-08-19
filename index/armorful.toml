@@ -1,0 +1,10 @@
+name = "Armorful"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "LlOkR2e2"
+version = "ljM3G8Lt"
+
+[options]

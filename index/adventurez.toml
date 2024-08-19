@@ -1,0 +1,10 @@
+name = "AdventureZ"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "defK2XM3"
+version = "mBYmRou0"
+
+[options]

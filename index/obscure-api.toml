@@ -1,0 +1,10 @@
+name = "Obscure API"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "fU7jbFHc"
+version = "IWDYxZre"
+
+[options]

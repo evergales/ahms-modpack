@@ -1,0 +1,10 @@
+name = "Trinkets"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "5aaWibi9"
+version = "AHxQGtuC"
+
+[options]

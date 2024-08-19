@@ -1,0 +1,10 @@
+name = "EpheroLib"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "DIIgdJzf"
+version = "ZmhVIn61"
+
+[options]

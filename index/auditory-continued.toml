@@ -1,0 +1,10 @@
+name = "Auditory Continued"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "UafsfA4K"
+version = "BdKxBtb6"
+
+[options]

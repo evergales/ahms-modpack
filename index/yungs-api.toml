@@ -1,0 +1,10 @@
+name = "YUNG's API"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "Ua7DFN59"
+version = "zPT7QfIk"
+
+[options]

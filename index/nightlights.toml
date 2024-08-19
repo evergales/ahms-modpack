@@ -1,0 +1,10 @@
+name = "Night Lights"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "s7pMb898"
+version = "FkwsGnGJ"
+
+[options]

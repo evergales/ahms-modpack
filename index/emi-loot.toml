@@ -1,0 +1,10 @@
+name = "EMI Loot"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "qbbO7Jns"
+version = "lwhMjJHL"
+
+[options]

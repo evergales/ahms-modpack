@@ -1,0 +1,10 @@
+name = "Rethinking Voxels"
+type = "shader"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "kmwfVOoi"
+version = "nZpwS5Nf"
+
+[options]

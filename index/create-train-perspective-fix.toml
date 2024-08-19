@@ -1,0 +1,10 @@
+name = "Create: Train Perspective Fix"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "Xm1BSBfU"
+version = "dgw8quWQ"
+
+[options]

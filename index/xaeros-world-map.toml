@@ -1,0 +1,10 @@
+name = "Xaero's World Map"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "NcUtCpym"
+version = "szULGs3b"
+
+[options]

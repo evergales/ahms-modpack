@@ -1,0 +1,10 @@
+name = "Biome Makeover"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "jG8Q2YwT"
+version = "rsoZ2Iqo"
+
+[options]

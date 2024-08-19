@@ -1,0 +1,10 @@
+name = "Fabric API"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "P7dR8mSH"
+version = "P7uGFii0"
+
+[options]

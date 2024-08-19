@@ -1,0 +1,10 @@
+name = "MidnightLib"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "codAaoxh"
+version = "YXz8kIQl"
+
+[options]

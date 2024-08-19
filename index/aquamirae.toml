@@ -1,0 +1,10 @@
+name = "Aquamirae"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "k23mNPhZ"
+version = "ouUaC54p"
+
+[options]

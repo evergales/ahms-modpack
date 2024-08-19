@@ -1,0 +1,10 @@
+name = "Make Bubbles Pop"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "gPCdW0Wr"
+version = "WyRIJsP5"
+
+[options]

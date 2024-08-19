@@ -1,0 +1,10 @@
+name = "Language Reload"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "uLbm7CG6"
+version = "kO9nUBoX"
+
+[options]

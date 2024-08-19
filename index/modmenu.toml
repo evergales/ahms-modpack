@@ -1,0 +1,10 @@
+name = "Mod Menu"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "mOgUt4GM"
+version = "lEkperf6"
+
+[options]

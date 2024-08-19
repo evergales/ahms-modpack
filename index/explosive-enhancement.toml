@@ -1,0 +1,10 @@
+name = "Explosive Enhancement"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "OSQ8mw2r"
+version = "LLkiKipc"
+
+[options]

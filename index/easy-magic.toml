@@ -1,0 +1,10 @@
+name = "Easy Magic"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "9hx3AbJM"
+version = "9Jw4urvo"
+
+[options]

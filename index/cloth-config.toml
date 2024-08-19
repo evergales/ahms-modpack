@@ -1,0 +1,10 @@
+name = "Cloth Config API"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "9s6osm5g"
+version = "J3FLptsi"
+
+[options]

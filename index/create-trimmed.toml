@@ -1,0 +1,10 @@
+name = "Create: Trimmed"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "zvaHXgQz"
+version = "Uwi3mNBj"
+
+[options]

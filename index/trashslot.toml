@@ -1,0 +1,10 @@
+name = "TrashSlot"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "vRYk0bv7"
+version = "KUxVaZQX"
+
+[options]

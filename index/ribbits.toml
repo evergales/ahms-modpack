@@ -1,0 +1,10 @@
+name = "Ribbits"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "8YcE8y4T"
+version = "RLSQKSBU"
+
+[options]

@@ -1,0 +1,10 @@
+name = "M.R.U"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "SNVQ2c0g"
+version = "KuCWGmRQ"
+
+[options]

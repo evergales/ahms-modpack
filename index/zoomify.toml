@@ -1,0 +1,10 @@
+name = "Zoomify"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "w7ThoJFB"
+version = "8VBKUY5S"
+
+[options]

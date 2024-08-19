@@ -1,0 +1,10 @@
+name = "Regions Unexplored"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "Tkikq67H"
+version = "rhE8MT9Z"
+
+[options]

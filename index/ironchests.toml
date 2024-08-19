@@ -1,0 +1,10 @@
+name = "Iron Chests: Restocked"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "n2de3t2z"
+version = "gioHN8Aw"
+
+[options]

@@ -1,0 +1,10 @@
+name = "You're in Grave Danger"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "HnD1GX6e"
+version = "tEfDHuTy"
+
+[options]

@@ -1,0 +1,10 @@
+name = "Chef's Delight"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "pvcsfne4"
+version = "hV0Pl3WP"
+
+[options]

@@ -1,0 +1,10 @@
+name = "Dungeon Now Loading"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "vZoqTqwv"
+version = "e2aaNGip"
+
+[options]

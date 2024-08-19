@@ -1,0 +1,10 @@
+name = "BCLib"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "BgNRHReB"
+version = "TPC86Pyz"
+
+[options]

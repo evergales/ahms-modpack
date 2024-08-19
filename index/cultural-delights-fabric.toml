@@ -1,0 +1,10 @@
+name = "Cultural Delights [Fabric]"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "9Gy8sTXS"
+version = "VmsNBbCQ"
+
+[options]

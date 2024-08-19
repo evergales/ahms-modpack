@@ -1,0 +1,10 @@
+name = "Iceberg"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "5faXoLqX"
+version = "uu7sqQDO"
+
+[options]

@@ -1,0 +1,10 @@
+name = "Extra Alchemy"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "n0S5OkPo"
+version = "on6IEEcc"
+
+[options]

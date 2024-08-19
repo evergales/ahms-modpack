@@ -1,0 +1,10 @@
+name = "ChoiceTheorem's Overhauled Village"
+type = "mod"
+side = "server"
+
+[source]
+source = "modrinth"
+id = "fgmhI8kH"
+version = "LKEra9cd"
+
+[options]

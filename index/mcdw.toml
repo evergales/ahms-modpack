@@ -1,0 +1,10 @@
+name = "MC Dungeons Weapons"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "FZmGDE43"
+version = "S2yuB3CX"
+
+[options]

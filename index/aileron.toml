@@ -1,0 +1,10 @@
+name = "Aileron"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "b8kG1VGq"
+version = "AsJWwz7I"
+
+[options]

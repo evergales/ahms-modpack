@@ -1,0 +1,10 @@
+name = "Festive Delight"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "AsUUCoXX"
+version = "Gs9jmquQ"
+
+[options]

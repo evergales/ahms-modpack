@@ -1,0 +1,10 @@
+name = "Gliders"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "XiC6HzoU"
+version = "9Qu0MGnH"
+
+[options]

@@ -1,0 +1,10 @@
+name = "Skip Transitions"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "Zoz5HQjH"
+version = "UTGgJGk5"
+
+[options]

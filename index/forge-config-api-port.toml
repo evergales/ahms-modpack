@@ -1,0 +1,10 @@
+name = "Forge Config API Port"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "ohNO6lps"
+version = "CtENDTlF"
+
+[options]

@@ -1,0 +1,10 @@
+name = "KleeSlabs"
+type = "mod"
+side = "server"
+
+[source]
+source = "modrinth"
+id = "7uh75ruZ"
+version = "IDj7kzhS"
+
+[options]

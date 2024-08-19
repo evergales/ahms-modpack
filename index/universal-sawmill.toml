@@ -1,0 +1,10 @@
+name = "Sawmill"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "WRaRZdTd"
+version = "gkqfqi9t"
+
+[options]

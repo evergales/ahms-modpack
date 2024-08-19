@@ -1,0 +1,10 @@
+name = "Dark Loading Screen"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "h3XWIuzM"
+version = "HLjyJHzA"
+
+[options]

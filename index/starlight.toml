@@ -1,0 +1,10 @@
+name = "Starlight (Fabric)"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "H8CaAYZC"
+version = "XGIsoVGT"
+
+[options]

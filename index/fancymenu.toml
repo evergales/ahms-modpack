@@ -1,0 +1,10 @@
+name = "FancyMenu"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "Wq5SjeWM"
+version = "3dDslDXq"
+
+[options]

@@ -1,0 +1,10 @@
+name = "Infusion Table"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "W9CiRGYK"
+version = "jsoERxuz"
+
+[options]

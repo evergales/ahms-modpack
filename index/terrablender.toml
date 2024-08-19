@@ -1,0 +1,10 @@
+name = "TerraBlender"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "kkmrDlKT"
+version = "FZV63yhg"
+
+[options]

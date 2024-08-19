@@ -1,0 +1,10 @@
+name = "e4mc"
+type = "mod"
+side = "server"
+
+[source]
+source = "modrinth"
+id = "qANg5Jrr"
+version = "JwZn7YZ0"
+
+[options]

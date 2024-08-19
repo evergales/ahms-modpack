@@ -1,0 +1,10 @@
+name = "Suggestion Tweaker"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "MBLj38R0"
+version = "3K6uPj89"
+
+[options]

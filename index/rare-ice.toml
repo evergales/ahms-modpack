@@ -1,0 +1,10 @@
+name = "Rare Ice"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "uSi0tajU"
+version = "8UbSLWxB"
+
+[options]

@@ -1,0 +1,10 @@
+name = "Wraith Waystones"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "sTZr7NVo"
+version = "DZAntbmD"
+
+[options]

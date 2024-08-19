@@ -1,0 +1,10 @@
+name = "Convenient Decor"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "gMWAhU1n"
+version = "N5ZG6AIP"
+
+[options]

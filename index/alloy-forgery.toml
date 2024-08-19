@@ -1,0 +1,10 @@
+name = "Alloy Forgery"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "jhl28YkY"
+version = "j3GoCoCc"
+
+[options]

@@ -1,0 +1,10 @@
+name = "EMIffect"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "705gWllI"
+version = "BslzSzGd"
+
+[options]

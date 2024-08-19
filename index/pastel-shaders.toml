@@ -1,0 +1,10 @@
+name = "Pastel Shaders"
+type = "shader"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "BkTdFBUU"
+version = "w3Pxx3b4"
+
+[options]

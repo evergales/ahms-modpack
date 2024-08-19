@@ -1,0 +1,10 @@
+name = "Unsafe World Random Access Detector"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "MsGuTgPJ"
+version = "8QhgubMQ"
+
+[options]

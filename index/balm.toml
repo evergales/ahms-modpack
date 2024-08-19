@@ -1,0 +1,10 @@
+name = "Balm"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "MBAkmtvl"
+version = "mQSYta9T"
+
+[options]

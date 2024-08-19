@@ -1,0 +1,10 @@
+name = "Mindful Darkness"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "pzCY6C3e"
+version = "hynR8fnB"
+
+[options]

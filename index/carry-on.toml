@@ -1,0 +1,10 @@
+name = "Carry On"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "joEfVgkn"
+version = "Mkla4B3q"
+
+[options]

@@ -1,0 +1,10 @@
+name = "Debugify"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "QwxR6Gcd"
+version = "6XDJoCks"
+
+[options]

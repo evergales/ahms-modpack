@@ -1,0 +1,10 @@
+name = "Jade 🔍"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "nvQzSEkH"
+version = "vlM1OUBd"
+
+[options]

@@ -1,0 +1,10 @@
+name = "Just Hammers"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "edU0NbZZ"
+version = "Hl1WvMl2"
+
+[options]

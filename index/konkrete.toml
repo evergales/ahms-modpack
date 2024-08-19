@@ -1,0 +1,10 @@
+name = "Konkrete"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "J81TRJWm"
+version = "RlBGFlWp"
+
+[options]

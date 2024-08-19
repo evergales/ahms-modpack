@@ -1,0 +1,10 @@
+name = "Rebalanced Loot"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "oNCfej6S"
+version = "t7tRibo1"
+
+[options]

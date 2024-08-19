@@ -1,0 +1,10 @@
+name = "Go Fish"
+type = "mod"
+side = "both"
+
+[source]
+source = "curseforge"
+id = 431135
+version = 4991432
+
+[options]

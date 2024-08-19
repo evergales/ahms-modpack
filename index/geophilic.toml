@@ -1,0 +1,10 @@
+name = "Geophilic"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "hl5OLM95"
+version = "DI57oxoL"
+
+[options]

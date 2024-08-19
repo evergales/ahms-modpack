@@ -1,0 +1,10 @@
+name = "Iris Shaders"
+type = "mod"
+side = "client"
+
+[source]
+source = "modrinth"
+id = "YL57xq9U"
+version = "1CMVXDHo"
+
+[options]

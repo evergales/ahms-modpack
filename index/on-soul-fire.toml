@@ -1,0 +1,10 @@
+name = "On Soul Fire"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "HfTvoVqY"
+version = "3x2OkwU9"
+
+[options]

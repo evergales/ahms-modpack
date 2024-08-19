@@ -1,0 +1,10 @@
+name = "Nature's Delight"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "18s8zHvJ"
+version = "EdNrnKch"
+
+[options]

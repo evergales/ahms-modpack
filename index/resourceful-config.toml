@@ -1,0 +1,10 @@
+name = "Resourceful Config"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "M1953qlQ"
+version = "PlEObkl9"
+
+[options]
