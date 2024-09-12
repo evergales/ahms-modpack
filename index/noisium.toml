@@ -1,10 +1,10 @@
-name = "Harvest with ease"
+name = "Noisium"
 type = "mod"
 side = "server"
 
 [source]
 source = "modrinth"
-id = "W4Ajthd2"
-version = "RraVtmGk"
+id = "KuNKN7d2"
+version = "erSJnRcq"
 
 [options]

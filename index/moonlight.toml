@@ -5,6 +5,7 @@ side = "both"
 [source]
 source = "modrinth"
 id = "twkfQtEc"
-version = "jYYF1jmo"
+version = "exg4mWoo"
 
 [options]
+pinned = true

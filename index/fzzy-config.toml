@@ -1,10 +1,10 @@
-name = "CorgiLib"
+name = "Fzzy Config"
 type = "mod"
 side = "both"
 
 [source]
 source = "modrinth"
-id = "ziOp6EO8"
-version = "dhFhhZbu"
+id = "hYykXjDp"
+version = "mvYrLhyi"
 
 [options]
