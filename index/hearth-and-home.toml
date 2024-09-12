@@ -1,10 +1,10 @@
-name = "BetterEnd"
+name = "Hearth & Home"
 type = "mod"
 side = "both"
 
 [source]
 source = "modrinth"
-id = "gc8OEnCC"
-version = "7QwyTILr"
+id = "ePCzRQkj"
+version = "wjCAzw7g"
 
 [options]

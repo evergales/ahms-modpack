@@ -1,0 +1,10 @@
+name = "SuperMartijn642's Config Lib"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "LN9BxssP"
+version = "Ur02nrUT"
+
+[options]
