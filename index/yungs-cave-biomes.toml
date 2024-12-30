@@ -1,10 +1,10 @@
-name = "BCLib"
+name = "YUNG's Cave Biomes"
 type = "mod"
 side = "both"
 
 [source]
 source = "modrinth"
-id = "BgNRHReB"
-version = "TPC86Pyz"
+id = "cs7iGVq1"
+version = "FyOxLDbe"
 
 [options]

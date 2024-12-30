@@ -1,0 +1,10 @@
+name = "[Let's Do Addon] Compat"
+type = "mod"
+side = "both"
+
+[source]
+source = "modrinth"
+id = "FNi5IMiX"
+version = "629Wolcf"
+
+[options]
